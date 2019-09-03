@@ -1,2 +1,2 @@
 # Project
-The Repository about all my projects ...!;-)
+This Repository is all about projects ...!;-)
